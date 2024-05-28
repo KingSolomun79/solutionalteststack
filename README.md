@@ -1,2 +1,0 @@
-# solutionalteststack
-My awesome repository
